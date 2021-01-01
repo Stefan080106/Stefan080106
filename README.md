@@ -1,6 +1,8 @@
-<img src="https://cdn.discordapp.com/avatars/433597946764722179/a3efc404756015ed7fe298202988f4be.png?size=128" alt="Stefan080106 style="border-radius: 100px" />
-## Hey 👋, I'm Stefan Arnold!  
-  
+<p align="center">
+    <img style="border-radius: 100px" width="128" height="128" src="https://cdn.discordapp.com/avatars/433597946764722179/a3efc404756015ed7fe298202988f4be.png?size=2048">
+</p>
+<h1 align="center">Stefan080106</h1>
+
 
 <a href="https://github.com/Stefan080106" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -11,13 +13,7 @@
 <a href="https://codepen.com/stefan080106" target="_blank">
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
 </a>  
-  
 
-
-
-### Nice to see you here!  
-I'm a hobby Developer  
-  
 
 <br/>  
 
@@ -77,11 +73,3 @@ I'm a hobby Developer
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=stefan080106&&style=flat-square)  
   
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
