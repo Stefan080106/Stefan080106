@@ -1,5 +1,5 @@
 <p align="center">
-    <img style="border-radius: 100px" width="128" height="128" src="https://cdn.discordapp.com/avatars/433597946764722179/a3efc404756015ed7fe298202988f4be.png?size=2048">
+    <img style="border-radius: 100px" width="128" height="128" src="https://i.ibb.co/HpXWkZC/53957363.jpg">
 </p>
 <h1 align="center">Stefan080106</h1>
 
