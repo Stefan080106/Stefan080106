@@ -17,6 +17,9 @@
 
 <ul>
 	<li>
+		<a href="https://github.com/trantlabs">Trantlabs</a>
+	</li>
+	<li>
 		<a href="https://github.com/fosscord/fosscord">Fosscord
 		<img align="right" src="https://img.shields.io/opencollective/all/fosscord">
 		<img align="right" src="https://img.shields.io/github/contributors/fosscord/fosscord">
